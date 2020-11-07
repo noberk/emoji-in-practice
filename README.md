@@ -1,12 +1,25 @@
-# What is Emoji
+# Emoji in practice
 
 Emoji are ideograms and smileys used in electronic messages and web pages. Some examples of emoji are 😃, 🧘🏻‍♂️, 🌍, 🍞, 🚗, 📞, 🎉. Nowadays it is a part of Unicode(13.0) which include about 1,367 characters and widely we use them in kind of platfroms to communicate wich each.
 
-# Purpose
+## Purpose
 
 New Emojis were added to Unicode continuously. I believed that we could exploit emoji and use them in front-end or back-end that we can enjoy and share our thought through them in coding, even become a standard.
 
-🧪 实验中
+## Contribute
+
+There are many ways to contribute to Emoji in practice.
+
+- [Submit bugs](https://github.com/noberk/emoji-in-practice/issues) and help us
+- Review the [source code changes](https://github.com/noberk/emoji-in-practice/pulls).
+
+## Define emoji in JS/TS
+
+- 🧪 experimental
+
+## Usage
+
+🧪 experimental
 ✔️ 正确
 🚀 优化
 🚨 紧急
@@ -30,7 +43,7 @@ New Emojis were added to Unicode continuously. I believed that we could exploit 
 
 ```ts
 /**
- *  🧧 ￥10 Help me resolve this implement this function.
+ *  🧧 $10 Help me resolve this implement this function.
  */
 function rotate() {
   // TODO
