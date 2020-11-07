@@ -16,30 +16,29 @@ There are many ways to contribute to Emoji in practice.
 ## Define emoji in JS/TS
 
 - 🧪 experimental
+- ✔️ corrent, true
+- 🚀 optimize
+- 🚨 emergency, urgent
+- ⚙️ option
+- 🔨 repiar
+- 🎀 cool, excellent
+- 🔌 plug
+- 💡 innovation
+- 🔮 foresee
+- 🕳 pitfall
+- 🧨💣 bomb
+- 🔑 key, important
+- 🧧 reward
+- 🧩 interface
+- 🦗bug
+- 🔔⚠️ notice
+- 📢 announce
+- 🈲 forbidden, stop
+- 📜📃🧾 scripts
+- 📆📅 date, calendar
+- 🗑 trush, obsolete
 
 ## Usage
-
-🧪 experimental
-✔️ 正确
-🚀 优化
-🚨 紧急
-⚙️ 配置
-🔨 修复中
-🎀 完美
-🔌 插座
-💡 🔮 创新
-🕳🧨💣 坑 炸弹
-🔑 关键，重要
-🧧 悬赏 = 解决了这个 bug 给红包
-🧩 接口
-🦗 有 bug
-🔔⚠️ 提醒
-📢 通告
-🈲 禁用 禁止
-📜📃🧾 脚本
-📆📅 日期 日历
-🗑 废弃的
-🗑
 
 ```ts
 /**
