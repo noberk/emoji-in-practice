@@ -10,8 +10,9 @@ New Emojis were added to Unicode continuously. I believed that we could exploit 
 
 There are many ways to contribute to Emoji in practice.
 
-- [Submit bugs](https://github.com/noberk/emoji-in-practice/issues) and help us
+- [Submit bugs](https://github.com/noberk/emoji-in-practice/issues) and help us.
 - Review the [source code changes](https://github.com/noberk/emoji-in-practice/pulls).
+- Share your idea to exploit emoji with coding.
 
 ## Define emoji in JS/TS
 
@@ -42,9 +43,10 @@ There are many ways to contribute to Emoji in practice.
 
 ```ts
 /**
- *  🧧 $10 Help me resolve this implement this function.
+ * 🧧 Reward $20  Help me to solve this implement this function.
+ *
  */
-function rotate() {
+function rotate(el: HTMLElement, degree: number): void {
   // TODO
 }
 /**
@@ -56,5 +58,7 @@ function toMars() {}
  */
 function sort() {}
 ```
+
+##
 
 🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🍒 🍑 🥭 🍍 🥥 🥝 🍅 🍆 🥑 🥦 🥬 🥒 🌶 🌽 🥕 🧄 🧅 🥔 🍠 🥐 🥯 🍞 🥖 🥨 🧀 🥚 🍳 🧈 🥞 🧇 🥓 🥩 🍗 🍖 🦴 🌭 🍔 🍟 🍕 🥪 🥙 🧆 🌮 🌯 🥗 🥘 🥫 🍝 🍜 🍲 🍛 🍣 🍱 🥟 🦪 🍤 🍙 🍚 🍘 🍥 🥠 🥮 🍢 🍡 🍧 🍨 🍦 🥧 🧁 🍰 🎂 🍮 🍭 🍬 🍫 🍿 🍩 🍪 🌰 🥜 🍯 🥛 🍼 ☕️ 🍵 🧃 🥤 🍶 🍺 🍻 🥂 🍷 🥃 🍸 🍹 🧉 🍾 🧊 🥄 🍴 🍽 🥣 🥡 🥢 🧂
